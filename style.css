@@ -43,7 +43,7 @@ body {
 .nav {
     display: flex;
     align-items: center;
-    margin-left: auto; /* Pushes the navigation to the right */
+    margin-left: 400px; /* Pushes the navigation to the right */
 }
 
 .nav-link {
